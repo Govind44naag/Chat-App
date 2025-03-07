@@ -1,0 +1,15 @@
+# Node.js dependencies  
+node_modules  
+package-lock.json  
+
+# Environment variables (Secrets)  
+.env  
+
+# Build and logs  
+dist  
+logs  
+*.log  
+
+# System files  
+.DS_Store  
+Thumbs.db 
