@@ -48,3 +48,4 @@ npm run dev
    ```bash
    git clone https://github.com/Govind-Naag/chat-app.git
    cd chat-app
+Author: Govind Naag
